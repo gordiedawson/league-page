@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>This is a Fantasy Football league full of a bunch of losers and fruads. Especially Ahmed Ismail.</p>
+  <p>This is a Fantasy Football league full of a bunch of losers and frauds.</p>
 `;
 
 /*   STEP 3   */
